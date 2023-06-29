@@ -49,6 +49,7 @@ public class LinearSearch {
 		System.out.print("index= " + linearSearch(a, 12));
 		System.out.println();
 		System.out.print("index= " + Arrays.toString(twoDlinearSearch(a2, 50)));
+		
 
 	}
 
