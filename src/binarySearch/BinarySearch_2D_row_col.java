@@ -5,7 +5,7 @@ import java.util.Arrays;
 // Here Matrix is sorted on the col and row basis
 //but its not proper sorted 
 //if we use 47 instead of 41 in arr its still valid 
-//Testing something
+
 
 public class BinarySearch_2D_row_col {
 	public static int[] search(int[][] a,int k) {
